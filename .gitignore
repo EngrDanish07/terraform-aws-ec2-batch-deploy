@@ -1,0 +1,10 @@
+# Terraform  files
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+.terraform/
+.terraform.lock.hcl
+
+# SSH key files
+terra-key-ec2
+terra-key-ec2.pub
